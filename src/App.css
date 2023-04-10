@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  background: linear-gradient(to right, white, black);
+}
+
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.row {
+  display: flex;
+}
+
+.calculatorArea {
+  background-color: black;
+  margin-top: 150px;
+}
